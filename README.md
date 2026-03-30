@@ -1,1 +1,1 @@
-# SafeNest-Intelligent-Banking-System
+# safeNest-intelligent-banking-system
